@@ -12,6 +12,7 @@
   "author": "Rishi Kumar <rishi.k.34561@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "ask-sdk": "^2.5.1"
+    "ask-sdk": "^2.5.1",
+    "eslint": "^5.15.2"
   }
 }
